@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RenAyesha.github.io/al-folio/sitemap.xml
+Sitemap: https://RenAyesha.github.io/sitemap.xml
